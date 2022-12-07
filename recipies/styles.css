@@ -28,10 +28,12 @@ div {
     font-family: "Lucida Handwriting", "Brush Script MT", cursive;
     color: brown;
     text-align: center;
+    font-weight: bolder;
   }
 
   h3{
     color: indianred;
     font-family: "Lucida Handwriting", "Brush Script MT", cursive;
+    font-weight: bold;
     
   }
